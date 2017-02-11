@@ -101,4 +101,4 @@ MIT Licensed
 
 
 ## 7. Author
-* Anuj Duggal ([LinkedIn](https://in.linkedin.com/in/anujduggal21) | [Twitter](https://twitter.com/AnujDuggal21) | [Facebook](https://www.facebook.com/AnujDuggal88))
+Anuj Duggal ([LinkedIn](https://in.linkedin.com/in/anujduggal21) | [Twitter](https://twitter.com/AnujDuggal21) | [Facebook](https://www.facebook.com/AnujDuggal88))
