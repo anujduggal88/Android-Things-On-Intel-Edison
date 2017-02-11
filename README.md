@@ -58,7 +58,7 @@ $fastboot \
 
 Once flashed, reboot the device to enter into adb mode:
 ```sh
-$fastboot reeboot
+$fastboot reboot
 ```
 Upon reboot, check if the device (Intel Edison with Android Things) is detected as android device and detected by the following command:
 ```sh
