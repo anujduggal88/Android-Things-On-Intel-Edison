@@ -57,6 +57,8 @@ Reboot the device using below command, enter to Android Things:
 ```sh
 $fastboot reboot
 ```
+Define ADB:
+Android Debug Bridge (ADB) is a client-server program used in Android application development
 Download the adb tool for this link : https://developer.android.com/studio/command-line/adb.html
 
 '''sh
@@ -70,6 +72,19 @@ $adb start-server
 
 $adb devices
 ```
+How to check Kernel Version, enter to adb shell 
+$cat /proc/version
+
+How to check Build Version, enter to adb shell
+$getprop ro.build.fingerprint
+
+How to check SDK Version, enter to adb shell
+$getprop ro.build.version.sdk
+
+How to check cpu info, enter to adb shell
+$ cat /proc/cpuinfo
+
+
 
 ## 4. Configurations
 After flashing the board, we'll connect the board with internet using adb.
