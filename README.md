@@ -8,7 +8,6 @@ This repository is created to offer step-by-step procedure to get started with A
 You can setup this project in your local machine by cloing this repository or downloading the zip file.
 
 ## 2. Downloads & Installations
-* Download [Latest Yocto Poky image](https://software.intel.com/en-us/iot/hardware/edison/downloads) OS image for Intel Edison
 * Download [Latest preview of AndroidThings_Edison_DevPreview](https://developer.android.com/things/preview/download.html) Non-OS image to flash Android Things on Intel Edison
 * Download [Installer](https://software.intel.com/en-us/iot/hardware/edison/downloads) to access the features in the IOT Developer kit
 * Download and Install [Intel Platform Flash Lite tool](https://01.org/android-ia/downloads/intel-platform-flash-tool-lite)
