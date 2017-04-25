@@ -58,6 +58,7 @@ Reboot the device using below command, enter to Android Things:
 $fastboot reboot
 ```
 Download the adb tool for this link : https://developer.android.com/studio/command-line/adb.html
+
 '''sh
 $adb devices
 ```
