@@ -53,7 +53,7 @@ $fastboot \
     flash oem_b oem.img
 ```
 
-Intel Edison reboot the device, enter to Android Things:
+Reboot the device using below command, enter to Android Things:
 ```sh
 $fastboot reboot
 ```
