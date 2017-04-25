@@ -72,7 +72,9 @@ $adb start-server
 
 $adb devices
 ```
-How to check Kernel Version, enter to adb shell 
+
+```
+How to check Kernel Version, enter to adb shell
 $cat /proc/version
 
 How to check Build Version, enter to adb shell
